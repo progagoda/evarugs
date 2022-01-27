@@ -1,1 +1,1 @@
-# evarugs - учебный проект
+# evarugs.github.io- учебный проект
